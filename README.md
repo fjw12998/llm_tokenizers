@@ -7,17 +7,46 @@
 软件架构说明
 
 
-#### 安装教程
+#### 项目安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  克隆项目到本地：
+```bash
+git clone https://gitee.com/sky_flash/llm_tokenizers.git
+``` 
+2. 进入项目目录：
+```bash
+cd llm_tokenizers
+```
+3. 使用 pip 安装依赖：
+```bash
+pip install -r requirements.txt
+```
+
+#### 软件包安装程
 
 #### 使用说明
 
 1.  xxxx
 2.  xxxx
 3.  xxxx
+
+#### 项目打包
+
+1.  确保已安装构建工具：
+```bash
+pip install build
+```
+ 
+2. 在项目根目录下执行打包命令：
+```bash
+python -m build
+```
+打包完成后，生成的 `.whl` 和 `.tar.gz` 文件会保存在 `dist/` 目录下。
+
+3. 安装打包好的 `.whl` 文件（以生成的文件名为例）：
+```bash
+pip install dist/llm_tokenizers-0.1.0-py3-none-any.whl
+```
 
 #### 参与贡献
 
