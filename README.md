@@ -1,6 +1,6 @@
 # llm_tokenizers
 
-Language: [English](README_en.md) [中文](README.md)
+Language: [English](https://gitee.com/sky_flash/llm_tokenizers/blob/master/README_en.md) [中文](README.md)
 
 #### 介绍
 收集llm的各种 tokenizer
