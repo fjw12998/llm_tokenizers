@@ -1,2 +1,15 @@
 /dist/
 /llm_tokenizers.egg-info/
+.arts/settings.json
+.idea/.gitignore
+.idea/llm_tokenizers.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+llm_tokenizers/__pycache__/__init__.cpython-38.pyc
+llm_tokenizers/__pycache__/abstract_tokenizer.cpython-38.pyc
+llm_tokenizers/__pycache__/deepseek_tokenizer.cpython-38.pyc
+llm_tokenizers/__pycache__/main_tokenizer.cpython-38.pyc
+llm_tokenizers/resources/__pycache__/__init__.cpython-38.pyc
+tests/__pycache__/test_deepseek_tokenizer.cpython-38.pyc
